@@ -1,2 +1,1 @@
-# finance-logger
-Testing TypeScript
+## Finance Logger - Testing TypeScript
