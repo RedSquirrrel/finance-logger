@@ -1,0 +1,2 @@
+# finance-logger
+Testing TypeScript
